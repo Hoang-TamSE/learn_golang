@@ -30,7 +30,7 @@ func ifBadScope() {
 	} else {
 		fmt.Println("That's a good number:", n)
 	}
-	fmt.Println(n) // 04-Blocks-Shadows-Control-Structures\if\main.go:33:14: undefined: n
+	// fmt.Println(n) // 04-Blocks-Shadows-Control-Structures\if\main.go:33:14: undefined: n
 
 }
 
